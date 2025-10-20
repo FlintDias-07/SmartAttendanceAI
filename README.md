@@ -24,13 +24,12 @@
 ### Screenshots
 
 ### Simple UI
+<img src='https://github.com/FlintDias-07/SmartAttendanceAI/blob/master/Project%20Snap/1.PNG'>
 
+<img src='https://github.com/FlintDias-07/SmartAttendanceAI/blob/master/Project%20Snap/2.PNG'>
 
-### While taking Image
+<img src='https://github.com/FlintDias-07/SmartAttendanceAI/blob/master/Project%20Snap/4.PNG'>
 
-## While taking Attendance
+<img src='https://github.com/FlintDias-07/SmartAttendanceAI/blob/master/Project%20Snap/5.png'>
 
-
-## Attendance in tabular format 
-
-
+[FlintDias]
