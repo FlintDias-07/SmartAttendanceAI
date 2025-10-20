@@ -24,12 +24,12 @@
 ### Screenshots
 
 ### Simple UI
-<img src="https://github.com/FlintDias-07/SmartAttendanceAI/blob/master/Project%20Snap/1.PNG?raw=true">
+<img src="https://github.com/FlintDias-07/SmartAttendanceAI/blob/main/Project%20Snap/1.PNG?raw=true">
 
-<img src="https://github.com/FlintDias-07/SmartAttendanceAI/blob/master/Project%20Snap/2.PNG?raw=true">
+<img src="https://github.com/FlintDias-07/SmartAttendanceAI/blob/main/Project%20Snap/2.PNG?raw=true">
 
-<img src="https://github.com/FlintDias-07/SmartAttendanceAI/blob/master/Project%20Snap/4.PNG?raw=true">
+<img src="https://github.com/FlintDias-07/SmartAttendanceAI/blob/main/Project%20Snap/4.PNG?raw=true">
 
-<img src="https://github.com/FlintDias-07/SmartAttendanceAI/blob/master/Project%20Snap/5.png?raw=true">
+<img src="https://github.com/FlintDias-07/SmartAttendanceAI/blob/main/Project%20Snap/5.png?raw=true">
 
 [FlintDias]
